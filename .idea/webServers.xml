@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="628f588d-2d67-4bbb-824c-3bccf9413d4c" name="tomcat9" url="http://localhost:8080/">
+        <fileTransfer port="0" mountedRoot="D:\Program Files\javatools\apache-tomcat-9.0.12\webapps\mstp_111_angulr" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
